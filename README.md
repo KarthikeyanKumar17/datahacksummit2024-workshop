@@ -1,6 +1,6 @@
 # Mastering Large Language Models: Training and Fine-Tuning Large Language Models Workshop (DHS 2024)
 
-This repository contains the material for the "Training and Fine-Tuning Large Language Models" workshop held at DHS 2024. The workshop is divided into several modules, each focusing on different aspects of working with large language models (LLMs).
+This repository contains the material for the "**Training and Fine-Tuning Large Language Models**" workshop held at DHS 2024. The workshop is divided into several modules, each focusing on different aspects of working with large language models (LLMs).
 
 ## Modules Overview
 
